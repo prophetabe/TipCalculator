@@ -5,7 +5,6 @@ for (let i = 0; i < 10; i++) {
 	console.log(i);
 }
 // commit 1 Initial logic for calculating tip using ternary operator.
-bill=100;
 tip = bill >= 50 && bill <=300?0.2:0.15
 console.log(bill,bill*result,bill+bill*result)
 
